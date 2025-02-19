@@ -1,0 +1,5 @@
+controllers:
+    resource:
+        path: ../src/PackTrack/Presentation/Controller/
+        namespace: App\PackTrack\Presentation\Controller
+    type: attribute
